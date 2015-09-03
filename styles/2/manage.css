@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+#member #member_main dl{
+	width:500px;
+	margin:15px auto;
+	font-size:14px;
+}
+#member #member_main dl dd{
+	padding:8px 0;
+	border-bottom:1px dashed #999;
+}
+
+
+
+
+
+
+
+

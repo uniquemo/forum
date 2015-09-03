@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+#active{
+	width:auto;
+	height:300px;
+	border:2px solid #ccc;
+	font-size:12px;
+}
+#active h2{
+	text-indent:0;
+	text-align:center;
+}
+#active p{
+	text-align:center;
+	font-size:12px;
+	padding:10px 0;
+}
